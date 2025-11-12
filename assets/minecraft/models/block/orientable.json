@@ -1,0 +1,20 @@
+{
+    "__comment": "This was modified so it is compatible with 1.13 - By Bluebird",
+	"parent": "block/cube",
+    "display": {
+        "firstperson_righthand": {
+			"rotation": [0, 135, 0],
+			"translation": [0, 0.8, 0],
+			"scale": [0.225, 0.225, 0.225]
+		}
+    },
+    "textures": {
+        "particle": "#front",
+        "down": "#top",
+        "up": "#top",
+        "north": "#front",
+        "east": "#side",
+        "south": "#side",
+        "west": "#side"
+    }
+}

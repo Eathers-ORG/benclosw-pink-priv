@@ -1,0 +1,15 @@
+{
+	"__comment": "By Bluebird",
+    "parent": "block/cube_column",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, 135, 0 ],
+            "translation": [0, 0.8, 0],
+			"scale": [0.225, 0.225, 0.225]
+        }
+    },
+    "textures": {
+        "end": "block/pumpkin_top",
+        "side": "block/pumpkin_side"
+    }
+}
